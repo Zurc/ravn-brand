@@ -1,10 +1,15 @@
 
 	</div><!--/row-offcanvas-->
+</div><!--/.container-->
 
 	<hr>
 
       <footer>
-        <p>&copy; 2015 RAVN Systems Ltd.</p>
+        <div class="container">
+          <div class="col-xs-12">
+            <p>&copy; 2015 RAVN Systems Ltd.</p>
+          </div>
+        </div>
       </footer>
 
       <!-- Bootstrap core JavaScript
@@ -16,7 +21,7 @@
 
     <script src="js/offcanvas.js"></script>
 
-    </div><!--/.container-->
+
 </div><!--/wrapper-->
 </body>
 </html>

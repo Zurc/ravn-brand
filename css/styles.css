@@ -33,9 +33,13 @@ body {
 }
 
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
-	background-color: rgba(255,  255,255, .4);
+	background-color: rgba(255,  255,255, .1);
 	border: none;
 	color: #484848;
+}
+
+a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover {
+	background-color: rgba(255,  255,255, .1);
 }
 
 #sidebar {
@@ -44,4 +48,8 @@ body {
 
 #sidebar:hover {
 	opacity: 1;
+}
+
+hr {
+    border-top: 1px solid #991b1e;
 }

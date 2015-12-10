@@ -2,15 +2,12 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 include("templates/header.php");
-include("templates/sidebar.php");
+
 ?>
 
 <div id="content">
-
-    <div class="col-xs-12 col-sm-9">
-      <p class="visible-xs">
-        <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
-      </p>
+<div class="container">
+    
       <div class="jumbotron">
         <h1>About Page!</h1>
         <p>This is an example to show the potential of an offcanvas layout pattern in Bootstrap. Try some responsive-range viewport sizes to see it in action.</p>
@@ -47,8 +44,7 @@ include("templates/sidebar.php");
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div><!--/.col-xs-6.col-lg-4-->
       </div><!--/row-->
-    </div><!--/.col-xs-12.col-sm-9-->
-
+</div>	
 </div><!--/content-->
 
 <?php include("templates/footer.php"); ?>

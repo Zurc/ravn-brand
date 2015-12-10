@@ -7,9 +7,7 @@ include("templates/sidebar.php");
 
 <div id="content">
 	<div class="col-xs-12 col-sm-9">
-	  <p class="visible-xs">
-	    <button type="button" class="btn btn-primary btn-md" data-toggle="offcanvas">Contents</button>
-	  </p>
+	  
 
 	<?php 
 
@@ -18,9 +16,13 @@ include("templates/sidebar.php");
 			include("templates/index.php");
 
 		} else {
-			$l = $_GET['link'];
 
-			echo $l;
+			$l = $_GET['link'];
+			$l = basename($l);
+			if(!file_exists("templates/".$l.".php"))
+				include "templates/one.php";
+			// show an specific template according which link it is in your url
+			else include "templates/".$l.".php";
 		}
 		
 	?>
