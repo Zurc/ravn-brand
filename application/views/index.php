@@ -8,7 +8,7 @@ include("templates/sidebar.php");
 <div id="content">
 	<div class="col-xs-12 col-sm-9">
 	  <p class="visible-xs">
-	    <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+	    <button type="button" class="btn btn-primary btn-md" data-toggle="offcanvas">Contents</button>
 	  </p>
 
 	<?php 

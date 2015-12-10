@@ -5,10 +5,16 @@ body {
     background: url("https://mozorg.cdn.mozilla.net/media/img/sandstone/bg-gradient-sand.26ec6264163e.png") repeat-x,url("https://mozorg.cdn.mozilla.net/media/img/sandstone/bg-sand.5f2ca98ac180.png") repeat,#f5f1e8;
 }
 
-/*.sand #wrapper {
-	background: #f5f1e8 url("https://mozorg.cdn.mozilla.net/media/img/sandstone/bg-gradient-sand.26ec6264163e.png") repeat-x;
-	background: url("https://mozorg.cdn.mozilla.net/media/img/sandstone/bg-gradient-sand.26ec6264163e.png") repeat-x,url("https://mozorg.cdn.mozilla.net/media/img/sandstone/bg-sand.5f2ca98ac180.png") repeat,#f5f1e8;
-}*/
+/*carve*/
+.navbar-brand, .jumbotron, .jumbotron > h2, h2 {
+	text-shadow: 0 1px 0 rgba(255,255,255,0.75);
+	color: #484848;
+}
+
+/*bg transparent*/
+.list-group-item, .jumbotron {
+	background-color: transparent; 
+}
 
 #wrapper {
 	position: relative;
@@ -24,15 +30,18 @@ body {
 
 .navbar-brand {
 	font-family: 'Helvetica Neue', Helvetica, sans-serif;
-    text-shadow: 0 1px 0 rgba(255,255,255,0.75);
-    color: #484848;
-}
-
-.list-group-item {
-	background-color: transparent; 
 }
 
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
 	background-color: rgba(255,  255,255, .4);
 	border: none;
+	color: #484848;
+}
+
+#sidebar {
+	opacity: .5;
+}
+
+#sidebar:hover {
+	opacity: 1;
 }
