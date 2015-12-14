@@ -5,8 +5,16 @@ body {
     background: url("https://mozorg.cdn.mozilla.net/media/img/sandstone/bg-gradient-sand.26ec6264163e.png") repeat-x,url("https://mozorg.cdn.mozilla.net/media/img/sandstone/bg-sand.5f2ca98ac180.png") repeat,#f5f1e8;
 }
 
+.container {
+	width: 90%;
+}
+
+.center {
+	text-align: center;
+}
+
 /*carve*/
-.navbar-brand, .jumbotron, .jumbotron > h2, h2 {
+.navbar-brand, .jumbotron, .jumbotron > h2, h1, h2 {
 	text-shadow: 0 1px 0 rgba(255,255,255,0.75);
 	color: #484848;
 }
@@ -42,6 +50,12 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 	background-color: rgba(255,  255,255, .1);
 }
 
+.toc {
+	position: absolute;
+	margin-top: -3em;
+	margin-left: 1em;
+}
+
 #sidebar {
 	opacity: .5;
 }
@@ -52,4 +66,53 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 
 hr {
     border-top: 1px solid #991b1e;
+}
+
+#subnav {
+    position: absolute;
+    top: -3em;
+    right: 1em;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 20px;
+}
+
+.next {
+	padding: 4px 18px 4px 10px;
+}
+
+.prev {
+	padding: 4px 10px 4px 18px;
+}
+/*	RAVN branding 	*/
+
+.bottom-shadow {
+	width: 100%;
+	float: left;
+    padding-bottom: 60px;
+    margin-bottom: 40px;
+    background-image: url("../images/shadow-divider.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.rpv-img {
+	max-width: 100%;
+}
+
+.ravn-email-img img, .ravn-capital-img img {
+	padding-top: 3em;
+}
+
+.download ul {
+	padding: 0;
+}
+.download ul li {
+	list-style: none;
+}
+
+.logo-vertical {
+	max-height: 165px;
 }

@@ -10,7 +10,7 @@ include("templates/header.php");
     
       <div class="jumbotron">
         <h1>About Page!</h1>
-        <p>This is an example to show the potential of an offcanvas layout pattern in Bootstrap. Try some responsive-range viewport sizes to see it in action.</p>
+        <p>This is a page telling employees RAVN history, what is this all about, things like Summer Tech summit, etc...</p>
       </div>
       <div class="row">
         <div class="col-xs-6 col-lg-4">

@@ -19,10 +19,18 @@ include("templates/sidebar.php");
 
 			$l = $_GET['link'];
 			$l = basename($l);
-			if(!file_exists("templates/".$l.".php"))
-				include "templates/one.php";
-			// show an specific template according which link it is in your url
-			else include "templates/".$l.".php";
+			$template = 'templates/'.$l.'.php';
+			$path = $_SERVER['DOCUMENT_ROOT']."/brand/application/views/".$template;
+			// show path	
+			echo "<script type=\"text/javascript\">console.log('path: ".$path."')</script>";
+
+			// if(empty($template)) {
+			// 	include ($_SERVER['DOCUMENT_ROOT']."/brand/views/".$template);
+			if(file_exists($path)) {
+				include "templates/".$l.".php";
+			} else {
+				include("templates/index.php");
+			}
 		}
 		
 	?>
