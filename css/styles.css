@@ -108,6 +108,10 @@ hr {
 	max-width: 100%;
 }
 
+.alternate-img {
+	max-height: 300px;
+}
+
 .ravn-email-img img, .ravn-capital-img img {
 	padding-top: 3em;
 }
