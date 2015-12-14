@@ -21,8 +21,8 @@ include("templates/sidebar.php");
 			$l = basename($l);
 			$template = 'templates/'.$l.'.php';
 			$path = $_SERVER['DOCUMENT_ROOT']."/brand/application/views/".$template;
-			// show path	
-			echo "<script type=\"text/javascript\">console.log('path: ".$path."')</script>";
+			// show path on the console
+			// echo "<script type=\"text/javascript\">console.log('path: ".$path."')</script>";
 
 			// if(empty($template)) {
 			// 	include ($_SERVER['DOCUMENT_ROOT']."/brand/views/".$template);

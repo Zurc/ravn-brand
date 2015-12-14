@@ -78,6 +78,12 @@ hr {
     line-height: 20px;
 }
 
+@media screen and (min-width: 768px) {
+    #subnav {
+        top: -2em;
+    }
+}
+
 .next {
 	padding: 4px 18px 4px 10px;
 }

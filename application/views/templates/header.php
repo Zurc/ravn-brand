@@ -38,7 +38,9 @@
 		    <span class="icon-bar"></span>
 		    <span class="icon-bar"></span>
 		  </button>
-		  <a class="navbar-brand" href="#">RAVN Brand Guidelines</a>
+		  
+		  <a class='navbar-brand' href='home'>RAVN Brand Guidelines</a>
+		  
 		</div>
 		<div id="navbar" class="collapse navbar-collapse navbar-right">
 		  <ul class="nav navbar-nav">

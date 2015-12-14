@@ -38,7 +38,9 @@
 		    <span class="icon-bar"></span>
 		    <span class="icon-bar"></span>
 		  </button>
-		  <a class="navbar-brand" href="#">RAVN Brand Guidelines</a>
+		  <?php
+		  	echo "<a class='navbar-brand' href='".$_SERVER['DOCUMENT_ROOT']."/brand/index.php'>RAVN Brand Guidelines</a>";
+		  ?>
 		</div>
 		<div id="navbar" class="collapse navbar-collapse navbar-left">
 		  <ul class="nav navbar-nav">
