@@ -3,14 +3,15 @@
 $templatelinks = array(
 	"0" => "introduction",
 	"1"	=> "brand-essence",
-	"2"	=> "ravn-logo"
+	"2"	=> "ravn-logo",
+	"3" =>	"product-logos"
 );
 
 $arrlength = count($templatelinks);
 $linkkey = $_GET['link'];
 $linkvalue = array_search($linkkey, $templatelinks);
 
-// show link index on the console
+// uncomment to show link index on the console
 // echo "<script type=\"text/javascript\">console.log('link index: ".$linkvalue."')</script>";
 
 

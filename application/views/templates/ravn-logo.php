@@ -164,7 +164,7 @@ include("nextprev.php");
   </div>
 </section>
 
-<section class="bottom-shadow">
+<section>
   <div class="col-xs-12 col-md-4">
     <h2>Please don't...</h2>
     <p>To keep the integrity of the RAVN logo, and to promote consistency of the brand, it is important to use the logo as described on these guidelines.</p>
