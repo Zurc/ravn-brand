@@ -116,13 +116,53 @@ hr {
 	padding-top: 3em;
 }
 
-.download ul {
-	padding: 0;
-}
-.download ul li {
-	list-style: none;
-}
-
 .logo-vertical {
 	max-height: 165px;
+	padding: 5px;
+	margin: 5px;
+}
+
+.button-group {
+    list-style: none;
+    margin: 0;
+    left: 0;
+    padding: 0;
+    -webkit-appearance: none;
+}
+.button-group li {
+	display: inline-block;
+	float: left;
+	border: 1px solid #800205;
+	box-sizing: border-box;
+	padding: 3px 12px;
+	background: #cd4f52;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
+
+.button-group li:first-child {
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	white-space: nowrap;
+	border-right: none;	
+}
+
+.button-group li:last-child {
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	white-space: nowrap;
+	border-left: none;
+}
+
+.button-group li:hover {
+	background: #991b1e;
+}
+
+.button-group li a {
+	padding: 0.5em;
+	color: white;
+}
+
+.button-group li a:hover {
+	text-decoration: none;
 }

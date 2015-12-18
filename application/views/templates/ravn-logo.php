@@ -27,7 +27,7 @@ include("nextprev.php");
 	</div>
 	<div class="download col-xs-12 col-sm-4">
 		<h4>Download</h4>
-		<ul class="button-list">
+		<ul class="button-group">
 			<li><a href="images/logo.eps" class="button-sand" download>EPS</a></li>
 			<li><a href="images/logo-print.jpg" class="button-sand" download>JPG (300dpi)</a></li>
 			<li><a href="images/logo-screen.png" class="button-sand" download>PNG</a></li>
@@ -44,7 +44,7 @@ include("nextprev.php");
 	</div>
 	<div class="download col-xs-12 col-sm-4">
 		<h4>Download</h4>
-		<ul class="button-list">
+		<ul class="button-group">
 			<li><a href="images/logo-black-and-white.svg" class="button-sand" download>SVG</a></li>
 			<li><a href="images/logo-black-and-white-print.jpg" class="button-sand" download>JPG (300dpi)</a></li>
 			<li><a href="images/logo-black-and-white-screen.png" class="button-sand" download>PNG</a></li>
@@ -61,7 +61,7 @@ include("nextprev.php");
 	</div>
 	<div class="download col-xs-12 col-sm-4">
 		<h4>Download</h4>
-		<ul class="button-list">
+		<ul class="button-group">
 			<li><a href="images/logo-vertical-color.svg" class="button-sand" download>SVG</a></li>
 			<li><a href="images/logo-vertical-print.jpg" class="button-sand" download>JPG (300dpi)</a></li>
 			<li><a href="images/logo-vertical-screen.png" class="button-sand" download>PNG</a></li>
@@ -78,7 +78,7 @@ include("nextprev.php");
 	</div>
 	<div class="download col-xs-12 col-sm-4">
 		<h4>Download</h4>
-		<ul class="button-list">
+		<ul class="button-group">
 			<li><a href="images/logo-vertical-black-and-white.svg" class="button-sand" download>SVG</a></li>
 			<li><a href="images/logo-vertical-black-and-white-print.jpg" class="button-sand" download>JPG (300dpi)</a></li>
 			<li><a href="images/logo-vertical-black-and-white-screen.png" class="button-sand" download>PNG</a></li>
@@ -95,7 +95,7 @@ include("nextprev.php");
 	</div>
 	<div class="download col-xs-12 col-sm-4">
 		<h4>Download</h4>
-		<ul class="button-list">
+		<ul class="button-group">
 			<li><a href="images/favicon_logo_ravn.png" class="button-sand" download>PNG</a></li>
 			<li><a href="images/favicon_logo_retina_ravn.png" class="button-sand" download>PNG (retina)</a></li>
 		</ul>
@@ -111,8 +111,8 @@ include("nextprev.php");
 	<p>In special circumstances when a 50% clear zone isn’t available, use the second option of a 25% clear zone.</p>
   </div>
   <div class="col-xs-12 col-md-8">
-  	<img src="images/space.png" alt="space around logo" class="rpv-img">
-	<img src="images/space2.png" alt="space around logo" class="rpv-img">
+  	<img src="images/space.png" alt="space around logo" class="logo-vertical">
+	<img src="images/space2.png" alt="space around logo" class="logo-vertical">
   </div>
 </section>
 
@@ -171,18 +171,18 @@ include("nextprev.php");
     <p>The examples shown here illustrate possible misuses of the RAVN logo that should be avoided.</p>
   </div>
   <div  class="col-xs-12 col-md-4 center">
-	<img src="images/dont1.png" alt="" class="rpv-img">
-	<img src="images/dont2.png" alt="" class="rpv-img">
-	<img src="images/dont3.png" alt="" class="rpv-img">
-	<img src="images/dont4.png" alt="" class="rpv-img">
-	<img src="images/dont5.png" alt="" class="rpv-img">
+	<img src="images/dont1.png" alt="" class="logo-vertical">
+	<img src="images/dont2.png" alt="" class="logo-vertical">
+	<img src="images/dont3.png" alt="" class="logo-vertical">
+	<img src="images/dont4.png" alt="" class="logo-vertical">
+	<img src="images/dont5.png" alt="" class="logo-vertical">
   </div>
   <div class="col-xs-12 col-md-4 center">
-	<img src="images/dont6.png" alt="" class="rpv-img">
-	<img src="images/dont7.png" alt="" class="rpv-img">
-	<img src="images/dont8.png" alt="" class="rpv-img">
-	<img src="images/dont9.png" alt="" class="rpv-img">
-	<img src="images/dont10.png" alt="" class="rpv-img">
+	<img src="images/dont6.png" alt="" class="logo-vertical">
+	<img src="images/dont7.png" alt="" class="logo-vertical">
+	<img src="images/dont8.png" alt="" class="logo-vertical">
+	<img src="images/dont9.png" alt="" class="logo-vertical">
+	<img src="images/dont10.png" alt="" class="logo-vertical">
   </div>
 </section>
 
