@@ -46,7 +46,7 @@ include("nextprev.php");
 <section id="capital" class="bottom-shadow">
   <div class="ravn-capital">
     <h3>What is the capital of...?</h3>
-	<p>Naming: The RAVN name is a powerful asset. To maintain brand strength, correct and consistent use is vital. Ensure when you are refer- ring to the company that you ensure <strong>RAVN is in caps</strong>. The use of RAVN and RAVN Systems are both permitted. For legal documents please refer to the company was Ravn Systems Ltd. When you are referring to a RAVN product please ensure you state “RAVN” ahead of the product name. For example ‘RAVN Manage’.</p>
+	<p>Naming: The RAVN name is a powerful asset. To maintain brand strength, correct and consistent use is vital. Ensure when you are referring to the company that you ensure <strong>RAVN is in caps</strong>. The use of RAVN and RAVN Systems are both permitted. For legal documents please refer to the company was Ravn Systems Ltd. When you are referring to a RAVN product please ensure you state “RAVN” ahead of the product name. For example ‘RAVN Manage’.</p>
   </div>
   <div class="ravn-capital-img">
     <img src="images/RAVN-Capital.png" alt="" class="rpv-img">
