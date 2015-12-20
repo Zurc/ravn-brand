@@ -166,3 +166,23 @@ hr {
 .button-group li a:hover {
 	text-decoration: none;
 }
+
+.color-box {
+	width: 100%;
+	height: 100px;
+	display: block;
+	border: 7px solid white;
+	//border-top-right-radius: 50%; 
+}
+
+.main-color-box {
+	width: 100%;
+	height: 100px;
+	display: block;
+	border: 7px solid white;
+	margin: 0 auto;
+}
+
+.color-code {
+	font-size: 0.8em;
+}

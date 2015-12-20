@@ -15,3 +15,7 @@ include("nextprev.php");
 		<img src="images/logo-main-colors.png" alt="ravn-logo" class="rpv-img">
 	</div>
 </section>
+
+<?php
+include("colors.php");
+?>

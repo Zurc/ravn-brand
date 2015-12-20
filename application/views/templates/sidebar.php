@@ -2,7 +2,7 @@
 
       <div class="row row-offcanvas row-offcanvas-left">
 
-	    <div class="col-xs-4 col-sm-3 sidebar-offcanvas" id="sidebar">
+	    <div class="col-xs-4 col-sm-3 col-md-2 sidebar-offcanvas" id="sidebar">
 	      <div class="list-group">
 	      	<a href="index.php?link=introduction" class="list-group-item">Introduction</a>
 	        <a href="index.php?link=brand-essence" class="list-group-item">Brand Essence</a>
