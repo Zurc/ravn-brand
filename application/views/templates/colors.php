@@ -40,6 +40,22 @@
 							array("#4fcd8b", "rgb(79, 205, 139)", "cmyk(63, 0, 63, 0)"),					//	tint 1
 							array("#83ffbf", "rgb(131, 255, 191)", "cmyk(40, 0, 40, 0)"),					//	tint 2
 			  		 ),
+			  		 array('Olive',
+					 		'Secondary color -Olive- with variations on shades and tints.',
+					 		array("#99961b", "rgb(153, 150, 27)", "cmyk(43, 30, 100, 6)", "pantone 582 C"),	//	main
+							array("#807d02", "rgb(128, 125, 2)", "cmyk(50, 38, 100, 15)"),					//	shade 1
+							array("#4e4b00", "rgb(78, 75, 0)", "cmyk(59, 51, 100, 44)"),					//	shade 2
+							array("#cdca4f", "rgb(205, 202, 79)", "cmyk(23, 11, 85, 0)"),					//	tint 1
+							array("#fffe83", "rgb(255, 254, 131)", "cmyk(3, 0, 59, 0)"),					//	tint 2
+			  		 ),
+			  		 array('Clay',
+					 		'Secondary color -Clay- with variations on shades and tints.',
+					 		array("#99571b", "rgb(153, 87, 27)", "cmyk(30, 68, 100, 21)", "pantone 154 C"),	//	main
+							array("#803e02", "rgb(128, 62, 2)", "cmyk(33, 76, 100, 35)"),					//	shade 1
+							array("#4e0c00", "rgb(78, 12, 0)", "cmyk(41, 87, 85, 66)"),						//	shade 2
+							array("#cd8b4f", "rrgb(205, 139, 79)", "cmyk(18, 49, 78, 2)"),					//	tint 1
+							array("#ffbf83", "rgb(255, 191, 131)", "cmyk(0, 29, 52, 0)"),					//	tint 2
+			  		 ),
 		);
 
 
