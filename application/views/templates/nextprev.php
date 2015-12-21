@@ -5,7 +5,8 @@ $templatelinks = array(
 	"1"	=> "brand-essence",
 	"2"	=> "ravn-logo",
 	"3" =>	"product-logos",
-	"4" =>	"visual-identity"
+	"4" =>	"visual-identity",
+	"5" =>	"typography"
 );
 
 $arrlength = count($templatelinks);

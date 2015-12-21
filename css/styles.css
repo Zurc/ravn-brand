@@ -186,3 +186,23 @@ hr {
 .color-code {
 	font-size: 0.8em;
 }
+
+/*typography*/
+
+.big-font li {
+	font-size: 6em;
+	color: #991b1e;
+	list-style: none;
+	line-height: 1.15em;
+	text-transform: uppercase;
+}
+
+.neue-bold, .neue-regular {
+	font-size: 2.5em;
+	color: #991b1e;
+	line-height: 1.15;
+}
+
+.neue-bold {
+	font-weight: bold;
+}

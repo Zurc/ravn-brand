@@ -9,7 +9,7 @@
 	        <a href="index.php?link=ravn-logo" class="list-group-item">RAVN logo</a>
 	        <a href="index.php?link=product-logos" class="list-group-item">Product logos</a>
 	        <a href="index.php?link=visual-identity" class="list-group-item">Visual Identity</a>
-	        <a href="#" class="list-group-item">Typography</a>
+	        <a href="index.php?link=typography" class="list-group-item">Typography</a>
 	        <a href="#" class="list-group-item">Templates</a>
 	        
 	      </div>
