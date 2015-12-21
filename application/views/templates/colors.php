@@ -32,6 +32,14 @@
 							array("#ca4fcd", "rgb(202, 79, 205)", "cmyk(33, 77, 0, 0)"),					//	tint 1
 							array("#fe83ff", "rgb(254, 131, 255)", "cmyk(15, 52, 0, 0)"),					//	tint 2
 			  		 ),
+			  		 array('Lucky Green',
+					 		'Secondary color -Lucky Green- with variations on shades and tints.',
+					 		array("#1b9957", "rgb(27, 153, 87)", "cmyk(83, 15, 88, 2)", "pantone 7731 C"),	//	main
+							array("#02803e", "rgb(2, 128, 62)", "cmyk(88, 25, 100, 12)"),					//	shade 1
+							array("#004e0c", "rgb(0, 78, 12)", "cmyk(85, 42, 100, 45)"),					//	shade 2
+							array("#4fcd8b", "rgb(79, 205, 139)", "cmyk(63, 0, 63, 0)"),					//	tint 1
+							array("#83ffbf", "rgb(131, 255, 191)", "cmyk(40, 0, 40, 0)"),					//	tint 2
+			  		 ),
 		);
 
 
