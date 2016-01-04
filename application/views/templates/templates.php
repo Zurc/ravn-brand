@@ -75,3 +75,26 @@ include("nextprev.php");
 	</div>
 </section>
 
+<section class="bottom-shadow">
+	<div class="col-xs-12 col-md-4">
+		<p>This is a custom made option with US size and less details.</p>
+		<br>
+		<h4>Download</h4>
+		<ul class="button-group">
+			<li><a href="images/RAVN-BC-US.indd" class="button-sand" download>INDD</a></li>
+		</ul>
+	</div>
+	<div class="col-xs-12 col-md-4">
+
+	  	<article>
+	  		<img src="images/bc-us-front.png" class="rpv-img" alt="International Business card two sides - no phone">
+	  	</article>
+	</div>
+		<div class="col-xs-12 col-md-4">
+
+	  	<article>
+	  		<img src="images/bc-us-back.png" class="rpv-img" alt="International Business card two sides - no phone">
+	  	</article>
+	</div>
+</section>
+
