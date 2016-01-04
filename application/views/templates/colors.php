@@ -53,9 +53,17 @@
 					 		array("#99571b", "rgb(153, 87, 27)", "cmyk(30, 68, 100, 21)", "pantone 154 C"),	//	main
 							array("#803e02", "rgb(128, 62, 2)", "cmyk(33, 76, 100, 35)"),					//	shade 1
 							array("#4e0c00", "rgb(78, 12, 0)", "cmyk(41, 87, 85, 66)"),						//	shade 2
-							array("#cd8b4f", "rrgb(205, 139, 79)", "cmyk(18, 49, 78, 2)"),					//	tint 1
+							array("#cd8b4f", "rgb(205, 139, 79)", "cmyk(18, 49, 78, 2)"),					//	tint 1
 							array("#ffbf83", "rgb(255, 191, 131)", "cmyk(0, 29, 52, 0)"),					//	tint 2
 			  		 ),
+			  		 array('Plum',
+					 		'Secondary color -Plum- with variations on shades and tints.',
+					 		array("#991b5d", "rgb(153, 27, 93)", "cmyk(36, 100, 38, 12)", "pantone 7648 C"),	//	main
+							array("#800244", "rgb(128, 2, 68)", "cmyk(38, 100, 50, 30)"),					//	shade 1
+							array("#4e0012", "rgb(78, 0, 18)", "cmyk(43, 90, 72, 66)"),						//	shade 2
+							array("#cd4f91", "rgb(205, 79, 145)", "cmyk(17, 83, 9, 0)"),					//	tint 1
+							array("#ff83c5", "rgb(255, 131, 197)", "cmyk(0, 60, 0, 0)"),					//	tint 2
+			  		 )
 		);
 
 
@@ -71,46 +79,46 @@
 						<div class="color-box" style="background:'.$colors[$key][4][0].' "></div>
 						<p class="lead">Shade 2</p>
 					</div>
-					<p class="color-code">'.$colors[$key][4][0].'</p>
-					<p class="color-code">'.$colors[$key][4][1].'</p>
-					<p class="color-code">'.$colors[$key][4][2].'</p>
+					<p class="font-sm">'.$colors[$key][4][0].'</p>
+					<p class="font-sm">'.$colors[$key][4][1].'</p>
+					<p class="font-sm">'.$colors[$key][4][2].'</p>
 				</div>
 				<div class="col-xs-12 col-sm-2">
 					<div class="center">
 						<div class="color-box" style="background:'.$colors[$key][3][0].' "></div>
 						<p class="lead">Shade 1</p>
 					</div>
-					<p class="color-code">'.$colors[$key][3][0].'</p>
-					<p class="color-code">'.$colors[$key][3][1].'</p>
-					<p class="color-code">'.$colors[$key][3][2].'</p>
+					<p class="font-sm">'.$colors[$key][3][0].'</p>
+					<p class="font-sm">'.$colors[$key][3][1].'</p>
+					<p class="font-sm">'.$colors[$key][3][2].'</p>
 				</div>
 				<div class="col-xs-12 col-sm-3">
 					<div class="center">
 						<div class="main-color-box" style="background:'.$colors[$key][2][0].' "></div>
 						<p class="lead">Main</p>
 					</div>
-					<p class="color-code">'.$colors[$key][2][0].'</p>
-					<p class="color-code">'.$colors[$key][2][1].'</p>
-					<p class="color-code">'.$colors[$key][2][2].'</p>
-					<p class="color-code">'.$colors[$key][2][3].'</p>
+					<p class="font-sm">'.$colors[$key][2][0].'</p>
+					<p class="font-sm">'.$colors[$key][2][1].'</p>
+					<p class="font-sm">'.$colors[$key][2][2].'</p>
+					<p class="font-sm">'.$colors[$key][2][3].'</p>
 				</div>
 				<div class="col-xs-12 col-sm-2">
 					<div class="center">
 						<div class="color-box" style="background:'.$colors[$key][5][0].' "></div>
 						<p class="lead">Tint 1</p>
 					</div>
-					<p class="color-code">'.$colors[$key][5][0].'</p>
-					<p class="color-code">'.$colors[$key][5][1].'</p>
-					<p class="color-code">'.$colors[$key][5][2].'</p>
+					<p class="font-sm">'.$colors[$key][5][0].'</p>
+					<p class="font-sm">'.$colors[$key][5][1].'</p>
+					<p class="font-sm">'.$colors[$key][5][2].'</p>
 				</div>
 				<div class="col-xs-12 col-sm-2">
 					<div class="center">
 						<div class="color-box" style="background:'.$colors[$key][6][0].' "></div>
 						<p class="lead">Tint 2</p>
 					</div>
-					<p class="color-code">'.$colors[$key][6][0].'</p>
-					<p class="color-code">'.$colors[$key][6][1].'</p>
-					<p class="color-code">'.$colors[$key][6][2].'</p>
+					<p class="font-sm">'.$colors[$key][6][0].'</p>
+					<p class="font-sm">'.$colors[$key][6][1].'</p>
+					<p class="font-sm">'.$colors[$key][6][2].'</p>
 				</div>
 			</section>';
 
