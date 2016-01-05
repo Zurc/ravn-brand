@@ -8,42 +8,41 @@ include("templates/header.php");
 <div id="content">
 <div class="container">
     
-      <div class="jumbotron">
-        <h1>About Page!</h1>
-        <p>This is a page telling employees RAVN history, what is this all about, things like Summer Tech summit, etc...</p>
-      </div>
-      <div class="row">
-        <div class="col-xs-6 col-lg-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!--/.col-xs-6.col-lg-4-->
-        <div class="col-xs-6 col-lg-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!--/.col-xs-6.col-lg-4-->
-        <div class="col-xs-6 col-lg-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!--/.col-xs-6.col-lg-4-->
-        <div class="col-xs-6 col-lg-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!--/.col-xs-6.col-lg-4-->
-        <div class="col-xs-6 col-lg-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!--/.col-xs-6.col-lg-4-->
-        <div class="col-xs-6 col-lg-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div><!--/.col-xs-6.col-lg-4-->
-      </div><!--/row-->
+      <section class="bottom-shadow">
+        <div class="col-xs-12 col-md-4 cms">
+          <h2>RAVN's Story</h2>
+          <p>When Norse explorers set out in their longboats to discover new land, they would sometimes take a few ravens with them. The raven is a land-based bird, so after one is released it would ascend to great altitude, but always return to the boat if there was no land in sight. If the raven spots land however, it would set its course for it and guide the explorers to new land. This is how the first settlers navigated to Iceland.</p>
+          <p>We are the ravens of the information technology industry, the RAVN. Guiding our clients to their destination in the ever expanding sea of information is our speciality and passion.</p>
+        </div>
+        <div class="col-xs-12 col-md-8">
+            <img src="images/A_Viking_Foray.jpg" class="rpv-img" alt="">
+        </div>
+      </section>
+
+      <section class="bottom-shadow">
+        <div class="col-xs-12">
+          <h2>Background</h2>
+          <p>RAVN Systems was started by a group of consultants and developers with a combined experience of over 30 years in the Enterprise Information Management industry. Our team members have previously been employed at some of the largest and most significant technology vendors in the space.</p>
+        </div>
+      </section>
+
+      <section class="bottom-shadow">
+        <div class="col-xs-12">
+            <h2>Enterprise-Level Development</h2>
+            <p>RAVN’s product development is driven by vast experience with high profile client interactions and technically challenging implementations. We realised that the industry is missing next generation products and tools that can cope with the changing environment that Enterprises are facing. In response to this RAVN Systems developed several products:</p>
+            <ul>
+              <li><span class="maroon">Connect Enterprise </span> - Advanced Enterprise Search.</li>
+              <li><span class="maroon">Connect for Microsoft SharePoint Search </span> - Enhancing your Microsoft SharePoint Search.</li>
+              <li><span class="maroon">Pipeline </span> - Revolutionising the ingestion chain.</li>
+              <li><span class="maroon">Manage </span> - Monitoring the health of your Enterprise Search solution.</li>
+              <li><span class="maroon">Preview </span> - Advance your browser-based viewing.</li>
+              <li><span class="maroon">Analytics </span> - Browser-based analytics.</li>
+            </ul>
+        </div>
+      </section>
+
+
+
 </div>	
 </div><!--/content-->
 
