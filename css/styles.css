@@ -181,9 +181,23 @@ hr {
 	font-size: 63px;
 }
 
-/*.cms p {
-	font-size: 1.2em;
-}*/
+/* introduction */
+
+.email-sample {
+	background: rgba(255, 255, 255, .4);
+	padding: 2em;
+}
+
+.email-sample h2, .email-sample p{
+	color: #991b1e;
+	font-size: 1.4em;
+	font-size: 1.2vw;
+	font-weight: 500;
+}
+
+.email-sample span {
+	color: #4f91cd;
+}
 
 /*	RAVN branding 	*/
 

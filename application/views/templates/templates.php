@@ -14,10 +14,7 @@ include("nextprev.php");
 		<p>For some cards mobile number is included too as displayed on the bottom row.</p>
 	</div>
 	<div class="col-xs-12 col-md-8">
-
-	  	<article>
-	  		<img src="images/bc-bond-0.jpg" class="rpv-img" alt="International Business card two sides">
-	  	</article>
+  		<img src="images/bc-bond.jpg" class="rpv-img" alt="International Business card two sides">
 	</div>
 </section>
 
@@ -39,16 +36,10 @@ include("nextprev.php");
 		</ul>
 	</div>
 	<div class="col-xs-12 col-md-4">
-
-	  	<article>
-	  		<img src="images/bc-front.png" class="rpv-img" alt="International Business card two sides - no phone">
-	  	</article>
+  		<img src="images/bc-front.png" class="rpv-img" alt="International Business card two sides - no phone">
 	</div>
-		<div class="col-xs-12 col-md-4">
-
-	  	<article>
-	  		<img src="images/bc-back.png" class="rpv-img" alt="International Business card two sides - no phone">
-	  	</article>
+	<div class="col-xs-12 col-md-4">
+  		<img src="images/bc-back.png" class="rpv-img" alt="International Business card two sides - no phone">
 	</div>
 </section>
 
@@ -62,16 +53,10 @@ include("nextprev.php");
 		</ul>
 	</div>
 	<div class="col-xs-12 col-md-4">
-
-	  	<article>
-	  		<img src="images/bc-mob-front.png" class="rpv-img" alt="International Business card two sides - no phone">
-	  	</article>
+  		<img src="images/bc-mob-front.png" class="rpv-img" alt="International Business card two sides - no phone">
 	</div>
-		<div class="col-xs-12 col-md-4">
-
-	  	<article>
-	  		<img src="images/bc-mob-back.png" class="rpv-img" alt="International Business card two sides - no phone">
-	  	</article>
+	<div class="col-xs-12 col-md-4">
+  		<img src="images/bc-mob-back.png" class="rpv-img" alt="International Business card two sides - no phone">
 	</div>
 </section>
 
@@ -85,16 +70,10 @@ include("nextprev.php");
 		</ul>
 	</div>
 	<div class="col-xs-12 col-md-4">
-
-	  	<article>
-	  		<img src="images/bc-us-front.png" class="rpv-img" alt="International Business card two sides - no phone">
-	  	</article>
+  		<img src="images/bc-us-front.png" class="rpv-img" alt="International Business card two sides - no phone">
 	</div>
-		<div class="col-xs-12 col-md-4">
-
-	  	<article>
-	  		<img src="images/bc-us-back.png" class="rpv-img" alt="International Business card two sides - no phone">
-	  	</article>
+	<div class="col-xs-12 col-md-4">
+  		<img src="images/bc-us-back.png" class="rpv-img" alt="International Business card two sides - no phone">
 	</div>
 </section>
 
