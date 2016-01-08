@@ -31,13 +31,20 @@ include("templates/header.php");
             <h2>Enterprise-Level Development</h2>
             <p>RAVN’s product development is driven by vast experience with high profile client interactions and technically challenging implementations. We realised that the industry is missing next generation products and tools that can cope with the changing environment that Enterprises are facing. In response to this RAVN Systems developed several products:</p>
             <ul>
-              <li><span class="maroon">Connect Enterprise </span> - Advanced Enterprise Search.</li>
-              <li><span class="maroon">Connect for Microsoft SharePoint Search </span> - Enhancing your Microsoft SharePoint Search.</li>
-              <li><span class="maroon">Pipeline </span> - Revolutionising the ingestion chain.</li>
-              <li><span class="maroon">Manage </span> - Monitoring the health of your Enterprise Search solution.</li>
-              <li><span class="maroon">Preview </span> - Advance your browser-based viewing.</li>
-              <li><span class="maroon">Analytics </span> - Browser-based analytics.</li>
+              <li><span class="maroon bold">Connect Enterprise </span> - Advanced Enterprise Search.</li>
+              <li><span class="maroon bold">Connect for Microsoft SharePoint Search </span> - Enhancing your Microsoft SharePoint Search.</li>
+              <li><span class="maroon bold">Pipeline </span> - Revolutionising the ingestion chain.</li>
+              <li><span class="maroon bold">Manage </span> - Monitoring the health of your Enterprise Search solution.</li>
+              <li><span class="maroon bold">Preview </span> - Advance your browser-based viewing.</li>
+              <li><span class="maroon bold">Analytics </span> - Browser-based analytics.</li>
             </ul>
+        </div>
+      </section>
+
+      <section>
+        <div class="col-xs-12">
+            <h2>Consulting</h2>
+            <p>In addition to product development, RAVN provides consulting services for Enterprise Information Management projects. Experience with implementing projects at the largest Enterprises around the world makes RAVN’s consultants among the foremost specialists in the Enterprise Search market. RAVN offers consultancy services at strategic, technical and project implementation levels.</p>          
         </div>
       </section>
 

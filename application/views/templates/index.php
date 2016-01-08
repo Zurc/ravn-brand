@@ -6,7 +6,7 @@
   <div id="cms-desc"  class="col-xs-12 col-md-8">
 
     <article>
-      <img src="images/welcome.png" alt="">
+      <img src="images/welcome0.png" class="rpv-img" alt="">
     </article>
   
   </div>
