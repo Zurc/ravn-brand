@@ -43,7 +43,7 @@ include("nextprev.php");
 </section>
 
 
-<section id="capital" class="bottom-shadow">
+<section id="capital">
   <div class="ravn-capital">
     <h3>What is the capital of...?</h3>
 	<p>Naming: The RAVN name is a powerful asset. To maintain brand strength, correct and consistent use is vital. Ensure when you are referring to the company that you ensure <strong>RAVN is in caps</strong>. The use of RAVN and RAVN Systems are both permitted. For legal documents please refer to the company was Ravn Systems Ltd. When you are referring to a RAVN product please ensure you state “RAVN” ahead of the product name. For example ‘RAVN Manage’.</p>
@@ -54,15 +54,6 @@ include("nextprev.php");
   
 </section>
 
-<section id="email">
-  <div class="ravn-email">
-    <h3>Email signature</h3>
-  	<p>Please ensure you have the correct email signature as shown on this page but ensure you replace with your own name, email and job title. For those of you dealing with external customers from time to time you will be sent sentences promoting various events to add to your signature. Please ensure you do so to help promote these to our customer and potential customer base.</p>
-  </div>
-  <div class="ravn-email-img">
-    <img src="images/email.png" alt="" class="rpv-img">
-  </div>
-  
-</section>
+
 
 

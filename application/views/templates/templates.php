@@ -77,3 +77,13 @@ include("nextprev.php");
 	</div>
 </section>
 
+<section id="email">
+  <div class="ravn-email">
+    <h3>Email signature</h3>
+  	<p>Please ensure you have the correct email signature as shown on this page but ensure you replace with your own name, email and job title. For those of you dealing with external customers from time to time you will be sent sentences promoting various events to add to your signature. Please ensure you do so to help promote these to our customer and potential customer base.</p>
+  </div>
+  <div class="ravn-email-img">
+    <img src="images/email.png" alt="" class="rpv-img">
+  </div>
+  
+</section>

@@ -9,4 +9,3 @@ This is an example to show the potential of an offcanvas layout pattern in Boots
 (Try some responsive-range viewport sizes to see it in action)
 Also this is a good example of PHP dynamic templates as you can see on the sidebar of the home page.
 
-Main Reference an idea: Mozilla.org
