@@ -1,6 +1,6 @@
 <?php 
 
-	$colors = array( array('maroon',
+	$colors = array( array('Maroon',
 							'The RAVN main color -Maroon- used for RAVN logos and same variations on shades and tints',
 							array("#991B1E", "rgb(153, 27, 30)", "cmyk(25, 99, 99, 24)", "pantone 7628 C"),		//	main
 							array("#800205", "rgb(128, 2, 5)", "cmyk(29, 100, 100, 38)"),						//	shade 1
@@ -8,7 +8,7 @@
 							array("#cd4f52", "rgb(205, 79, 82)", "cmyk(15, 83, 66, 2)"),						//	tint 1
 							array("#FF8386", "rgb(255, 131, 134)", "cmyk(0, 62, 34, 0)")						//	tint 2
 					 ),
-					 array('emerald',
+					 array('Emerald',
 					 		'Main ACE color -Emerald- used for RAVN ACE and same variations on shades and tints.',
 					 		array("#1b9996", "rgb(27, 153, 150)", "cmyk(80, 20, 44, 1)", "pantone 7473 C"),	//	main
 							array("#02807d", "rgb(2, 128, 125)", "cmyk(86, 31, 51, 9)"),					//	shade 1
@@ -16,7 +16,7 @@
 							array("#4fcdca", "rgb(79, 205, 202)", "cmyk(60, 0, 26, 0)"),					//	tint 1
 							array("#83fffe", "rgb(131, 255, 254)", "cmyk(37, 0, 9, 0)"),					//	tint 2
 			  		 ),
-			  		 array('sapphire',
+			  		 array('Sapphire',
 					 		'Secondary color -Sapphire Blue- with variations on shades and tints.',
 					 		array("#1b5d99", "rgb(27, 93, 153)", "cmyk(93, 67, 13, 1)", "pantone 7684 C"),	//	main
 							array("#024480", "rgb(2, 68, 128)", "cmyk(100, 82, 24, 7)"),					//	shade 1
@@ -24,7 +24,7 @@
 							array("#4f91cd", "rgb(79, 145, 205)", "cmyk(68, 33, 0, 0)"),					//	tint 1
 							array("#83c5ff", "rgb(131, 197, 255)", "cmyk(42, 12, 0, 0)"),					//	tint 2
 			  		 ),
-			  		 array('malva',
+			  		 array('Malva',
 					 		'Secondary color -Malva- with variations on shades and tints.',
 					 		array("#961b99", "rgb(150, 27, 153)", "cmyk(50, 99, 0, 0)", "pantone 254 C"),	//	main
 							array("#7d0280", "rgb(125, 2, 128)", "cmyk(62, 100, 14, 4)"),					//	shade 1
@@ -124,4 +124,11 @@
 
 	}
 
+
+
+
 ?>
+
+<script>
+	$('section.bottom-shadow:last').removeClass('bottom-shadow');
+</script>

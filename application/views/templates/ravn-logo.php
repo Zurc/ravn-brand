@@ -7,9 +7,9 @@ include("nextprev.php");
 <!-- intro section -->
 <section id="intro" class="bottom-shadow">
 	<div id="guidelines" class="col-xs-12 col-md-4">
-		<h2>Logo identity</h2>
+		<h2>Logo Identity</h2>
 		<p>The RAVN logo is an important visual asset for RAVN’s identity and must be used consistently and appropriately, even minor variations will compromise branding image.</p>
-		<p>The RAVN logo consists of three elements: The RAVN symbol, the RAVN logotype and the Statement.</p>
+		<p>The RAVN logo consists of three elements: The RAVN symbol, the RAVN logotype and the statement.</p>
 		<p>The preferred version stands on a white background wherever possible.</p>
 		<p>The logo should never be typeset, recreated or altered, which could cause inconsistencies.</p>
 	</div>
@@ -104,8 +104,8 @@ include("nextprev.php");
 
 <section class="bottom-shadow">
   <div class="col-xs-12 col-md-4">
-    <h2>Give me space...</h2>
-    <p>To ensure the RAVN logo is clearly visible in all applications, give it su cient clear space. Keep clear space free of any other visual element to maximize the recognition of RAVN’s identity.
+    <h2>Give Me Space...</h2>
+    <p>To ensure the RAVN logo is clearly visible in all applications, give it sufficient clear space. Keep clear space free of any other visual element to maximize the recognition of RAVN’s identity.
 </p>
 	<p>When the logotype or full name is used, a clear space of 50% of the logotype’s height should be mantained.</p>
 	<p>In special circumstances when a 50% clear zone isn’t available, use the second option of a 25% clear zone.</p>
@@ -152,9 +152,9 @@ include("nextprev.php");
 <section class="bottom-shadow">
   <div class="col-xs-12 col-md-4">
     <h2>Logo Color Variation</h2>
-    <p>The RAVN logo should be reproduced in color with white background whenever possible.</p>
+    <p>The RAVN logo should be reproduced in color with a white background whenever possible.</p>
     <p>If color reproduction is not available, the logo should be reproduced in Gray/Black/White.</p>
-    <p>In all cases a bird background on the symbol should remain white.</p>
+    <p>In all cases the bird background on the symbol should remain white.</p>
     <p>If the RAVN logo is placed on a photographic image, the image behind the logo should create enough contrast with it.</p>
   </div>
   <div class="col-xs-12 col-md-8 center">
@@ -166,7 +166,7 @@ include("nextprev.php");
 
 <section>
   <div class="col-xs-12 col-md-4">
-    <h2>Please don't...</h2>
+    <h2>Please Don't...</h2>
     <p>To keep the integrity of the RAVN logo, and to promote consistency of the brand, it is important to use the logo as described on these guidelines.</p>
     <p>The examples shown here illustrate possible misuses of the RAVN logo that should be avoided.</p>
   </div>

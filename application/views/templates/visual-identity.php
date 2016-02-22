@@ -8,7 +8,7 @@ include("nextprev.php");
 <section id="intro" class="bottom-shadow">
 	<div id="guidelines" class="col-xs-12 col-md-4">
 		<h2>Logo Main Colors</h2>
-		<p>The RAVN logo should be reproduced in Main color -Maroon/ Black/White with white background whenever possible.</p>
+		<p>The RAVN logo should be reproduced in Main color (Maroon/Black/White) with white background whenever possible.</p>
 		<p>If color reproduction is not available, the logo should be reproduced in Gray/Black/ White.</p>
 	</div>
 	<div class="col-xs-12 col-md-8 center">

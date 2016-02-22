@@ -8,7 +8,7 @@ include("nextprev.php");
 <section id="intro" class="bottom-shadow">
   <div class="col-xs-12 col-md-4">
     <h2>A Friendly Font</h2>
-    <p class="lead">From the Helvetica family</p>
+    <p class="lead">From the Helvetica Family</p>
     <p>Clear communication is the primary goal of typography and RAVN shares the same aim.</p>
     <p>This swiss typeface is among the most popular and famous typefaces of the 20th century and has been popular choice for corporate logos, including 3M, American Airlines, BMW, Toyota, Panasonic, Apple iOS platform, Lufthansa... and many others.</p>
   </div>
@@ -32,8 +32,8 @@ include("nextprev.php");
 	<div class="bottom-shadow">
 		<div class="col-xs-12 col-md-4">
 			<h2>Helvetica Family</h2>
-			<p>Helvetica Neue is used as main font in all RAVN uses.</p>
-			<p>In case Helvetica Neue is not available as a font in your software, you can always degrade gracefully into standard Helvetica font.</p>
+			<p>Helvetica Neue is used as the main font for RAVN.</p>
+			<p>In case Helvetica Neue is not available as a font in your software, you can use the standard Helvetica font.</p>
 			<br>
 		</div> 
 

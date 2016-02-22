@@ -7,9 +7,9 @@ include("nextprev.php");
 <section class="bottom-shadow">
 	<div class="col-xs-12 col-md-4">
     	<h2>Business Cards</h2>
-		<p>RAVN business cards were builted to show company details on one side and personal details on the other side.</p>
-		<p>International size: 85mm x 55mm</p>
-		<p>US size: 3.5" x 2"</p>
+		<p>RAVN business cards were built to show company details on one side and personal details on the other side.</p>
+		<p>International size: 85mm x 55mm.</p>
+		<p>US size: 3.5" x 2".</p>
 		<p>Standard layout of cards includes person’s name, title, email and RAVN’s phone address, website and twitter account.</p>
 		<p>For some cards mobile number is included too as displayed on the bottom row.</p>
 	</div>
@@ -22,13 +22,13 @@ include("nextprev.php");
 	<div class="col-xs-12 center">
 		<h2>Download</h2>
 		<br>
-		<div class="lead">NOTE: If you need business cards please talk to Marketing Department and they will make it for you. This templates are done on InDesign format.</div>
+		<div class="lead">NOTE: If you need business cards please talk to Marketing Department and they will make it for you.</div>
 	</div>
 </section>
 
 <section class="bottom-shadow">
 	<div class="col-xs-12 col-md-4">
-		<p>This is the most common business cards option without mobile telephone number.</p>
+		<p>This is the most common business card option without mobile telephone number.</p>
 		<br>
 		<h4>Download</h4>
 		<ul class="button-group">
@@ -45,7 +45,7 @@ include("nextprev.php");
 
 <section class="bottom-shadow">
 	<div class="col-xs-12 col-md-4">
-		<p>This business cards option includes mobile telephone number on it.</p>
+		<p>This business card option includes mobile telephone number on it.</p>
 		<br>
 		<h4>Download</h4>
 		<ul class="button-group">

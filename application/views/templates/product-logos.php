@@ -8,8 +8,8 @@ include("nextprev.php");
 <section id="intro" class="bottom-shadow">
 	<div id="guidelines" class="col-xs-12 col-md-4">
 		<h2>Some details...</h2>
-		<p>The RAVN product logos keep the same colors than RAVN logo.</p>
-		<p>If color reproduction is not available, the RAVN product logos should be reproduced in Gray/Black/ White the same that speci ed for RAVN logo.</p>
+		<p>The RAVN product logos keep the same colors as the RAVN logo.</p>
+		<p>If color reproduction is not available, the RAVN product logos should be reproduced in Gray/Black/White the same that specified for RAVN logo.</p>
 		<p>Clear space: Main RAVN logo clear space was used as reference. The same space is obtained from twice the height of the product name.</p>
 	</div>
 	<div class="col-xs-12 col-md-8 center">
